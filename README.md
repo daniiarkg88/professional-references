@@ -16,7 +16,7 @@ This project is supported by official signed recommendation letters issued by th
 ### Available recommendation letters:
 - [English version](./investcogeo-reference-letter-%20en.pdf)
 
-- [German version](./investcogeo-reference-letter-de.pdf)
+- [German version](./investcogeo-reference-letter-%20de.pdf)
 - [Spanish version](./investcogeo-reference-letter-es.pdf)
 
 ---
