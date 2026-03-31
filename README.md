@@ -14,7 +14,7 @@ I developed [investcogeo.com](https://investcogeo.com) for LTD INVEST CO GROUP a
 This project is supported by official signed recommendation letters issued by the client company.
 
 ### Available recommendation letters:
-- [English version]([./investcogeo-reference-letter-en.pdf](https://github.com/daniiarkg88/professional-references/blob/main/investcogeo-reference-letter-%20en.pdf))
+- [English version](./investcogeo-reference-letter-%20en.pdf)
 
 - [German version](./investcogeo-reference-letter-de.pdf)
 - [Spanish version](./investcogeo-reference-letter-es.pdf)
